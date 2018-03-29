@@ -1,1 +1,5 @@
 print "Feature 1 : Hello, Python!"
+
+print "Feature 1 : Hello, My!"
+print "Feature 1 : Hello, First!"
+print "Feature 1 : Hello, GIT!"
